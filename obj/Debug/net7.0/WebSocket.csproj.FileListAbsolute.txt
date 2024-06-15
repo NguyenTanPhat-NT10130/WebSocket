@@ -1,0 +1,17 @@
+D:\HocTap\SA\WebSocket\bin\Debug\net7.0\WebSocket.exe
+D:\HocTap\SA\WebSocket\bin\Debug\net7.0\WebSocket.deps.json
+D:\HocTap\SA\WebSocket\bin\Debug\net7.0\WebSocket.runtimeconfig.json
+D:\HocTap\SA\WebSocket\bin\Debug\net7.0\WebSocket.dll
+D:\HocTap\SA\WebSocket\bin\Debug\net7.0\WebSocket.pdb
+D:\HocTap\SA\WebSocket\bin\Debug\net7.0\websocket-sharp.dll
+D:\HocTap\SA\WebSocket\obj\Debug\net7.0\WebSocket.csproj.AssemblyReference.cache
+D:\HocTap\SA\WebSocket\obj\Debug\net7.0\WebSocket.GeneratedMSBuildEditorConfig.editorconfig
+D:\HocTap\SA\WebSocket\obj\Debug\net7.0\WebSocket.AssemblyInfoInputs.cache
+D:\HocTap\SA\WebSocket\obj\Debug\net7.0\WebSocket.AssemblyInfo.cs
+D:\HocTap\SA\WebSocket\obj\Debug\net7.0\WebSocket.csproj.CoreCompileInputs.cache
+D:\HocTap\SA\WebSocket\obj\Debug\net7.0\WebSocket.csproj.CopyComplete
+D:\HocTap\SA\WebSocket\obj\Debug\net7.0\WebSocket.dll
+D:\HocTap\SA\WebSocket\obj\Debug\net7.0\refint\WebSocket.dll
+D:\HocTap\SA\WebSocket\obj\Debug\net7.0\WebSocket.pdb
+D:\HocTap\SA\WebSocket\obj\Debug\net7.0\WebSocket.genruntimeconfig.cache
+D:\HocTap\SA\WebSocket\obj\Debug\net7.0\ref\WebSocket.dll
